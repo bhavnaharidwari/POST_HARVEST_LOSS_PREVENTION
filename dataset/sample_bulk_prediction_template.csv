@@ -1,0 +1,11 @@
+Category,Produce_Name,Variety,Produce_Grade,Quality_Score,Health_Score,Market_Price,Transport_Mode,Distance_to_Market,Cold_Chain_Available,IoT_Device_ID,Sensor_Battery_Level,GPS_Latitude,GPS_Longitude,Market_Demand,Storage_Cost,State,District,Storage_Type,Package_Type,Storage_Duration,Temperature,Humidity,Light_Intensity,CO2_Level,Ethylene_Level,Moisture_Content,Weight,Weather,Season,Disease_Detected,Sensor_Status
+Fruits,Apple,Fuji,A,92,90,120.0,Truck,150,Yes,IOT-101,95,31.1048,77.1734,High,25.0,Himachal Pradesh,Shimla,Cold Storage,Carton Box,14,2.5,88.0,150,450,1.2,84.0,25.0,Sunny,Winter,No,Active
+Fruits,Banana,Cavendish,B,78,75,40.0,Mini Truck,60,No,IOT-102,82,21.0077,75.5626,High,15.0,Maharashtra,Jalgaon,Ambient Storage,Plastic Crate,5,22.0,75.0,320,600,4.8,76.0,30.0,Sunny,Summer,No,Active
+Vegetables,Tomato,Roma,A,88,86,35.0,Truck,90,Yes,IOT-103,90,20.0110,73.7903,High,18.0,Maharashtra,Nashik,Controlled Atmosphere,Plastic Crate,7,12.0,90.0,200,500,2.1,92.0,20.0,Cloudy,Winter,No,Active
+Fruits,Mango,Alphonso,A,95,94,250.0,Truck,220,Yes,IOT-104,88,16.9902,73.3120,High,35.0,Maharashtra,Ratnagiri,Cold Storage,Carton Box,10,13.0,85.0,180,550,3.0,82.0,15.0,Sunny,Summer,No,Active
+Vegetables,Potato,Russet,B,82,80,22.0,Rail,350,No,IOT-105,78,27.1767,78.0081,Medium,12.0,Uttar Pradesh,Agra,Warehouse,Jute Bag,25,8.0,85.0,50,700,0.5,78.0,50.0,Sunny,Winter,No,Active
+Vegetables,Onion,Red,A,85,84,28.0,Truck,180,No,IOT-106,85,20.0110,73.7903,High,14.0,Maharashtra,Nashik,Warehouse,Jute Bag,30,24.0,65.0,100,520,0.4,85.0,40.0,Sunny,Winter,No,Active
+Fruits,Orange,Valencia,B,80,78,60.0,Truck,120,Yes,IOT-107,91,21.1458,79.0882,Medium,20.0,Maharashtra,Nagpur,Cold Storage,Wooden Box,12,6.0,88.0,160,480,1.5,86.0,22.0,Sunny,Winter,No,Active
+Vegetables,Spinach,Savoy,C,65,60,25.0,Pickup,40,No,IOT-108,70,28.6139,77.2090,High,10.0,Delhi,Central Delhi,Ambient Storage,Plastic Crate,3,28.0,55.0,450,650,5.2,90.0,10.0,Sunny,Summer,Yes,Active
+Fruits,Grapes,Thompson Seedless,A,90,88,90.0,Truck,160,Yes,IOT-109,93,20.0110,73.7903,High,28.0,Maharashtra,Nashik,Cold Storage,Carton Box,15,1.0,92.0,140,420,0.8,80.0,12.0,Cloudy,Winter,No,Active
+Vegetables,Cauliflower,Snowball,B,76,72,30.0,Mini Truck,75,No,IOT-110,80,26.8467,80.9462,Medium,16.0,Uttar Pradesh,Lucknow,Ambient Storage,Wooden Box,6,26.0,60.0,380,580,3.5,88.0,18.0,Sunny,Summer,No,Active
