@@ -1,0 +1,20 @@
+{
+    "model_type": "pipeline",
+    "model_status": "active",
+    "model_file": "spoilage_risk_pipeline.pkl",
+    "shelf_life_model_file": "shelf_life_pipeline.pkl",
+    "best_model_alias": "best_model.pkl",
+    "dataset_name": "Produce_Dataset.csv",
+    "target_column": "Spoilage_Risk",
+    "best_model": "Decision Tree",
+    "accuracy": 99.83,
+    "precision": 99.83,
+    "recall": 99.83,
+    "f1_score": 99.83,
+    "shelf_life_r2": 0.8039,
+    "shelf_life_mae": 2.23,
+    "shelf_life_rmse": 2.92,
+    "trained_at": "18-11-2026 09:57:17",
+    "pipeline_source": "post_harvest_ml_pipeline.ipynb",
+    "notes": "Trained on 80000 records with 31 features"
+}
